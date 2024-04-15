@@ -1,0 +1,14 @@
+ipykernel
+numpy
+pandas
+scikit-learn
+matplotlib
+wordcloud
+gensim
+tensorflow
+keras
+scikeras
+asreview
+asreview-insights
+synergy-dataset
+scipy<1.13
