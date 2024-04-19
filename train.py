@@ -1,4 +1,3 @@
-import subprocess
 import shutil
 import multiprocessing 
 
@@ -23,19 +22,6 @@ from asreview.models.feature_extraction import (
 
 from models.power_cnn import POWER_CNN
 from models.wide_doc2vec import wide_doc2vec
-
-def init_folders():
-  data_path = Path("data")
-  data_path.mkdir(exist_ok=True)
-
-  parent_project_path = Path("projects")
-  parent_project_path.mkdir(exist_ok=True)
-
-  parent_project_path = Path("states")
-  parent_project_path.mkdir(exist_ok=True)
-
-def download_dataset():
-  subprocess.run(["wget", "-O", "data/brouwer_et_al.xlsx", "https://osf.io/download/2mwkd/"])
 
 def simulate_project(
     name,
