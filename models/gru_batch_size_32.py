@@ -24,7 +24,7 @@ class GatedRecurrentUnit(BaseTrainClassifier):
 
             X = X.reshape(X.shape[0], 1, X.shape[1])
             
-            return self._model.fit(X, y)
+            return self._model.fit(X, y, epochs=10, batch_size=32)
 
         def predict_proba(self, X):
             X = X.reshape(X.shape[0], 1, X.shape[1])
