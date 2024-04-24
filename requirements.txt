@@ -1,7 +1,6 @@
 ipykernel
 numpy
 pandas
-scikit-learn
 matplotlib
 gensim
 -e git+https://github.com/JahnsMichael/asreview-lstm-gru-classfier.git#egg=asreview-lstm-gru-classfier
