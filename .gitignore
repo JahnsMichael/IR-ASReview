@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Simulation archive/soft-delete
+archive/
+nohup.out
