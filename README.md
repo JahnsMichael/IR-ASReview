@@ -25,7 +25,7 @@ For Windows:
 ### Install Dependencies
 
 ```bash
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ## Simulate model
