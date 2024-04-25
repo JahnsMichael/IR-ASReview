@@ -1,0 +1,1 @@
+{"version": "1.6.1", "id": "gru_doc2vec", "mode": "simulate", "name": "gru_doc2vec", "description": "Simulation created via ASReview via command line interface", "authors": null, "created_at_unix": 1713983598, "datetimeCreated": "2024-04-24 18:33:18.628943", "reviews": [], "feature_matrices": [], "dataset_path": "Jeyaraman_2020_cleaned.csv"}

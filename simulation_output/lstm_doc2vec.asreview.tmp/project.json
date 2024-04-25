@@ -1,0 +1,1 @@
+{"version": "1.6.1", "id": "lstm_doc2vec", "mode": "simulate", "name": "lstm_doc2vec", "description": "Simulation created via ASReview via command line interface", "authors": null, "created_at_unix": 1713983593, "datetimeCreated": "2024-04-24 18:33:13.244150", "reviews": [], "feature_matrices": [], "dataset_path": "Jeyaraman_2020_cleaned.csv"}
