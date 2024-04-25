@@ -1,1 +1,0 @@
-{"version": "1.6.1", "id": "power-cnn_wide-doc2vec", "mode": "simulate", "name": "power-cnn_wide-doc2vec", "description": "Simulation created via ASReview via command line interface", "authors": null, "created_at_unix": 1713983587, "datetimeCreated": "2024-04-24 18:33:07.709594", "reviews": [], "feature_matrices": [], "dataset_path": "Jeyaraman_2020_cleaned.csv"}
