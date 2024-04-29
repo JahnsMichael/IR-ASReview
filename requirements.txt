@@ -3,6 +3,7 @@ numpy
 pandas
 matplotlib
 gensim
+asreview-insights
 git+https://github.com/JahnsMichael/asreview-lstm-gru-classfier.git@main#egg=asreview-lstm-gru-classifier
 git+https://github.com/JahnsMichael/asreview-plugin-model-cnn-17-layer.git@main#egg=asreview-plugin-model-cnn-17-layer
 git+https://github.com/JTeijema/asreview-plugin-wide-doc2vec.git@main#egg=asreview-plugin-wide-doc2vec
